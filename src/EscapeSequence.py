@@ -40,3 +40,11 @@ print("hello world \\")
 # quiz
 print(" 'it's a hero Time! \n \t\t\t\t - Ben 10 " )
 
+
+
+'''
+hello world
+print("multiple line command")
+'''
+
+#  it is also called DocString
