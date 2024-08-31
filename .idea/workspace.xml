@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f107d2c2-3d56-494c-bda2-ff3cd5d8475f" name="Changes" comment="Modified">
-      <change afterPath="$PROJECT_DIR$/src/DataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AverageOfThreenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IterativeStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statementts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnitDigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInput_Console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oddOrEven.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EscapeSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EscapeSequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +47,9 @@
     &quot;accountId&quot;: &quot;8b3ee10a-396e-43d4-af40-cadf9d53ef57&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/UserInput_Console.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="showPreview" value="true" />
   </component>
@@ -63,13 +70,19 @@
     "Python.DataTypes.executor": "Run",
     "Python.EscapeSequence.executor": "Run",
     "Python.Hello_World.executor": "Run",
+    "Python.IterativeStatement.executor": "Run",
     "Python.PrintStatement.executor": "Run",
+    "Python.Statementts.executor": "Run",
+    "Python.UnitDigits.executor": "Run",
+    "Python.UserInput_Console.executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.oddOrEven.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -104,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725031124972</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1725071918924</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725071918924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
