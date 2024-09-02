@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f107d2c2-3d56-494c-bda2-ff3cd5d8475f" name="Changes" comment="Modified">
-      <change afterPath="$PROJECT_DIR$/src/ChocalateFest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberLine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CatsAndMouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindDigit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoveLetter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ViralAdvertising.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utpoianTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,16 +65,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CatsAndMouse.executor": "Run",
     "Python.ChocalateFest.executor": "Run",
     "Python.DataTypes.executor": "Run",
     "Python.Dictionary.executor": "Run",
     "Python.ElseClassInLoopz.executor": "Run",
     "Python.EscapeSequence.executor": "Run",
+    "Python.FindDigit.executor": "Run",
     "Python.Functions.executor": "Run",
     "Python.Hello_World.executor": "Run",
     "Python.IterativeStatement.executor": "Run",
     "Python.JUMPSTATEMENT.executor": "Run",
     "Python.List.executor": "Run",
+    "Python.LoveLetter.executor": "Run",
     "Python.NumberLine.executor": "Run",
     "Python.Pattern.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
@@ -83,9 +88,11 @@
     "Python.Tuple.executor": "Run",
     "Python.UnitDigits.executor": "Run",
     "Python.UserInput_Console.executor": "Run",
+    "Python.ViralAdvertising.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.oddOrEven.executor": "Run",
     "Python.operators.executor": "Run",
+    "Python.utpoianTree.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -149,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725112454058</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1725168624997</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725168624998</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
