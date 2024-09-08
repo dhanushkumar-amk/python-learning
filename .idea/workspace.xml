@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f107d2c2-3d56-494c-bda2-ff3cd5d8475f" name="Changes" comment="Modified">
-      <change afterPath="$PROJECT_DIR$/src/identityOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuildInFunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoveLetter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoveLetter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,43 +59,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.CatsAndMouse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ChocalateFest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ElseClassInLoopz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EscapeSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FindDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello_World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IterativeStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.JUMPSTATEMENT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LoveLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NumberLine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PrintStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Statementts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Traversal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.UnitDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.UserInput_Console.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ViralAdvertising.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oddOrEven.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.utpoianTree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BuildInFunctions.executor": "Run",
+    "Python.CatsAndMouse.executor": "Run",
+    "Python.ChocalateFest.executor": "Run",
+    "Python.DataTypes.executor": "Run",
+    "Python.Dictionary.executor": "Run",
+    "Python.ElseClassInLoopz.executor": "Run",
+    "Python.EscapeSequence.executor": "Run",
+    "Python.FindDigit.executor": "Run",
+    "Python.Functions.executor": "Run",
+    "Python.Hello_World.executor": "Run",
+    "Python.IterativeStatement.executor": "Run",
+    "Python.JUMPSTATEMENT.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.LoveLetter.executor": "Run",
+    "Python.NumberLine.executor": "Run",
+    "Python.Pattern.executor": "Run",
+    "Python.PrimeNumber.executor": "Run",
+    "Python.PrintStatement.executor": "Run",
+    "Python.Sets.executor": "Run",
+    "Python.Statementts.executor": "Run",
+    "Python.Traversal.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.UnitDigits.executor": "Run",
+    "Python.UserInput_Console.executor": "Run",
+    "Python.ViralAdvertising.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.identityOperator.executor": "Run",
+    "Python.oddOrEven.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.utpoianTree.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -169,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725254592130</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1725775366142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725775366142</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1725775421512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725775421512</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
