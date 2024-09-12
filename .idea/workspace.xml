@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f107d2c2-3d56-494c-bda2-ff3cd5d8475f" name="Changes" comment="Modified">
-      <change afterPath="$PROJECT_DIR$/src/ModuleExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModuleExample1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/CountLowerCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Mean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/Mergetwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/MultiplicationMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/StudentMarkList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/cal2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/factorialNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/CountLowercaseanduppercase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/Largest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/MeanMedianMode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/StudentDetails1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/amstrong1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/factorial1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/fibonacci1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/handleException1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/marklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/mergetwofiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/numberconversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/prime1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/rand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo2/simplecal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuildInFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildInFunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/identityOperator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/identityOperator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/ConvertDecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/ConvertDecimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/HandleException.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/HandleException.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/cal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/fibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/fibo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/mergetwofiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/mergetwofiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -67,41 +93,76 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AmstrongNumber.executor": "Run",
     "Python.BuildInFunctions.executor": "Run",
     "Python.CatsAndMouse.executor": "Run",
     "Python.ChocalateFest.executor": "Run",
+    "Python.CountLowerCase.executor": "Run",
+    "Python.CountLowercaseanduppercase.executor": "Run",
     "Python.DataTypes.executor": "Run",
     "Python.Dictionary.executor": "Run",
     "Python.ElseClassInLoopz.executor": "Run",
     "Python.EscapeSequence.executor": "Run",
     "Python.FindDigit.executor": "Run",
     "Python.Functions.executor": "Run",
+    "Python.HandleException.executor": "Run",
     "Python.Hello_World.executor": "Run",
     "Python.IterativeStatement.executor": "Run",
     "Python.JUMPSTATEMENT.executor": "Run",
+    "Python.Largest1.executor": "Run",
+    "Python.LargestOfThreeNumbers.executor": "Run",
     "Python.List.executor": "Run",
     "Python.LoveLetter.executor": "Run",
+    "Python.Mean.executor": "Run",
+    "Python.MeanMedianMode.executor": "Run",
+    "Python.Mergetwo.executor": "Run",
     "Python.ModuleExample1.executor": "Run",
+    "Python.MultiplicationMatrix.executor": "Run",
     "Python.NumberLine.executor": "Run",
     "Python.Pattern.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
+    "Python.PrimeNumberOrNot.executor": "Run",
     "Python.PrintStatement.executor": "Run",
+    "Python.ReverseANumber.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.Statementts.executor": "Run",
+    "Python.StudentDetails.executor": "Run",
+    "Python.StudentDetails1.executor": "Run",
+    "Python.StudentMarkList.executor": "Run",
+    "Python.StudentMarksheet.executor": "Run",
     "Python.Traversal.executor": "Run",
     "Python.Tuple.executor": "Run",
     "Python.UnitDigits.executor": "Run",
     "Python.UserInput_Console.executor": "Run",
     "Python.ViralAdvertising.executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.amstrong1.executor": "Run",
+    "Python.cal.executor": "Run",
+    "Python.cal2.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.factorial1.executor": "Run",
+    "Python.factorialNumber.executor": "Run",
+    "Python.fibo.executor": "Run",
+    "Python.fibonacci1.executor": "Run",
+    "Python.handleException1.executor": "Run",
     "Python.identityOperator.executor": "Run",
+    "Python.marklist.executor": "Run",
+    "Python.matrix.executor": "Run",
+    "Python.matrixMultiplication.executor": "Run",
+    "Python.mergetwofiles.executor": "Run",
+    "Python.numberconversion.executor": "Run",
     "Python.oddOrEven.executor": "Run",
     "Python.operators.executor": "Run",
+    "Python.prime1.executor": "Run",
+    "Python.rand.executor": "Run",
+    "Python.randomNumbers.executor": "Run",
+    "Python.simplecal.executor": "Run",
     "Python.utpoianTree.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -201,8 +262,51 @@
       <option name="project" value="LOCAL" />
       <updated>1725776516469</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1726107519960</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726107519960</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1729658944538</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729658944538</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1729658958060</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729658958060</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1729659142848</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729659142848</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modified" />
