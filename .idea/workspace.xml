@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f107d2c2-3d56-494c-bda2-ff3cd5d8475f" name="Changes" comment="Modified">
-      <change afterPath="$PROJECT_DIR$/src/BuildInFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModuleExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModuleExample1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildInFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildInFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/identityOperator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/identityOperator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +33,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -75,6 +81,7 @@
     "Python.JUMPSTATEMENT.executor": "Run",
     "Python.List.executor": "Run",
     "Python.LoveLetter.executor": "Run",
+    "Python.ModuleExample1.executor": "Run",
     "Python.NumberLine.executor": "Run",
     "Python.Pattern.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
@@ -186,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725775421512</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Modified">
+      <option name="closed" value="true" />
+      <created>1725776516469</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725776516469</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
